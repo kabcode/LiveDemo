@@ -6,3 +6,4 @@ This is a new second line without empty lines.
 
 New Chapter
 This is the first line of the new chapter.
+New chapter lines.
